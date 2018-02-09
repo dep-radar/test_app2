@@ -4,8 +4,8 @@
 [[projects]]
   name = "github.com/pkg/errors"
   packages = ["."]
-  revision = "645ef00459ed84a119197bfb8d8205042c6df63d"
-  version = "v0.8.0"
+  revision = "17b591df37844cde689f4d5813e5cea0927d8dd2"
+  version = "v0.7.1"
 
 [[projects]]
   name = "github.com/pkg/profile"
@@ -15,6 +15,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "933499f1718ed9eb67f2c8563a1851bd50e96b905ba4102063974017f5a80f39"
+  inputs-digest = "7b0c7f727545ec4b22e5e340b8a3563308784e384e40313670b506e78ed6d0e7"
   solver-name = "gps-cdcl"
   solver-version = 1
