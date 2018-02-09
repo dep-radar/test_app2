@@ -14,6 +14,11 @@
   version = "v0.8.0"
 
 [[projects]]
+  name = "github.com/pkg/profile"
+  packages = ["."]
+  revision = "52c30d7a823723e8fb45f8756eccdd5433b0dece"
+
+[[projects]]
   name = "github.com/pkg/sftp"
   packages = ["."]
   revision = "f6a9258a0f570c3a76681b897b6ded57cb0dfa88"
@@ -35,6 +40,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "89a7d97684890144123702ba9fe3a2b4dcc7b0a54b0c3a6646691a16cef42449"
+  inputs-digest = "90514a1df2b1ccac545aac49438bf493dfac04e04dda5b66e1b5a9d9abd0363a"
   solver-name = "gps-cdcl"
   solver-version = 1

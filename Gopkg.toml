@@ -29,6 +29,10 @@
   name = "github.com/pkg/errors"
   version = "0.8.0"
 
+[[constraint]]
+  name = "github.com/pkg/profile"
+  revision = "52c30d7a823723e8fb45f8756eccdd5433b0dece"
+
 [prune]
   go-tests = true
   unused-packages = true
